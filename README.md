@@ -4,5 +4,5 @@ I am a Junior Software Developer with experience in full-stack JavaScript. I am 
 🔭 I’m currently working on a group coding project, focusing on full-stack development and collaboration
 
 
-- 📫 How to reach me: melissa.pagejones@googlemail.com
+- 📫 How to reach me: `melissa.pagejones@googlemail.com`
 - 🔗 [LinkedIn](https://www.linkedin.com/in/melissa-p-60a14a11b)
